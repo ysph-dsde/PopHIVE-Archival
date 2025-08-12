@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+17cd8ba4282ef41fb0d27c59d5d0c1c560955a27 refs/heads/main
+c982789f51cb66089e66f12759ceb7efa7c9eed6 refs/heads/test_data
+378e4c99488a2288a4579ff86d0827190d432331 refs/heads/vax_updates

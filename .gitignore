@@ -1,0 +1,11 @@
+.
+..
+.DS_Store
+.Rhistory
+.Rprofile
+.Rproj.user
+.Rapp.history
+*.html
+
+
+Local Files/
