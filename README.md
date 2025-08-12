@@ -6,13 +6,15 @@ The PopHIVE project established its own GitHub organization in the summer of 202
 
 Refer to the notes below for details on how the archives were created and instructions on how to use them. The new locations of the codebases can also be found in the table below.
 
+&nbsp;
+
 | Repository Name  | New Location                                          | Transferred                   |
-|:-----------------|:------------------------------------------------------|:-----------------------------:|
+|:-----------------|:------------------------------------------------------|:------------------------------|
 | data-gov         | [PopHIVE/data-gov](https://github.com/PopHIVE/data-gov)              | Aug 11th, 2025 |
 | DSDE-PopHIVE     | [PopHIVE/DSDE-PopHIVE](https://github.com/PopHIVE/DSDE-PopHIVE)      | Aug 11th, 2025 |
 | PopHIVE          | [PopHIVE/PopHIVE](https://github.com/PopHIVE/PopHIVE)                | Aug 11th, 2025 |
 | PopHIVE-Prototype| [PopHIVE/PopHIVE-Prototype ](https://github.com/PopHIVE/PopHIVE-Prototype)| Aug 12th, 2025 |
-| PopHIVE-Shiny    | [PopHIVE/PopHIVE-Shiny](https://github.com/PopHIVE/PopHIVE-Shiny/blob/main/README.md)| Aug 12th, 2025 |
+| PopHIVE-Shiny    | [PopHIVE/PopHIVE-Shiny](https://github.com/PopHIVE/PopHIVE-Shiny)    | Aug 12th, 2025 |
 | PopHIVE_DataHub  | N/A | Not Yet Transferred |
 
 &nbsp;
