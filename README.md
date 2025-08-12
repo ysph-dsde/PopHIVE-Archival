@@ -64,7 +64,7 @@ Sometimes, these operations will generate a `pack-xxxx.bitmap` file. Bitmap inde
 git repack -a -d -f --write-bitmap-index        # Repack using the global setting and add bitmap
 ```
 
-## Re-Initiate an Using Archived File
+## Re-Initiating and Using an Archived File
 
 To create a new GitHub repository using archived bare clone copy, use the following steps.
 
