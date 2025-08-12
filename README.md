@@ -2,11 +2,18 @@
 
 ## Overview
 
-Enclosed is the code used for the second PopHIVE prototype dashboard, which transitions the code from an RShiny-based implementation to a JavaScript-based one for better performance. This repository includes the code for generating the JavaScript version of the dashboard, referencing data from the R-based version found in [PopHIVE/DSDE-PopHIVE](https://github.com/PopHIVE/DSDE-PopHIVE). During its development, the RShiny-based prototype was still being updated, so some of these updates are not reflected in this version.
+The PopHIVE project established its own GitHub organization in the summer of 2025. Most codebases were transferred to this new organization in August, unless otherwise noted. For long-term storage, a bare clone of each repository was created and saved in this repository. After completing the transfers to the [PopHIVE](https://github.com/PopHIVE) GitHub Organization, the original codebases in the [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) GitHub Organization were deleted.
 
-The was originally developed in a [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) GitHub Organization repository and was copied into the [PopHIVE](https://github.com/PopHIVE) GitHub Organization Aug 12th, 2025. At the time of transfer, the YSPH-DSDE GitHub Organization codebase was no longer being actively contributed to and had been archived.
+Refer to the notes below for details on how the archives were created and instructions on how to use them. The new locations of the codebases can also be found in the table below.
 
-**Transfer and archival dates:** August 11th and 12th, 2025
+| Repository Name  | New Location                                          | Transferred                   |
+|:-----------------|:------------------------------------------------------|:-----------------------------:|
+| data-gov         | [PopHIVE/data-gov](https://github.com/PopHIVE/data-gov)              | Aug 11th, 2025 |
+| DSDE-PopHIVE     | [PopHIVE/DSDE-PopHIVE](https://github.com/PopHIVE/DSDE-PopHIVE)      | Aug 11th, 2025 |
+| PopHIVE          | [PopHIVE/PopHIVE](https://github.com/PopHIVE/PopHIVE)                | Aug 11th, 2025 |
+| PopHIVE-Prototype| [PopHIVE/PopHIVE-Prototype ](https://github.com/PopHIVE/PopHIVE-Prototype)| Aug 12th, 2025 |
+| PopHIVE-Shiny    | [PopHIVE/PopHIVE-Shiny](https://github.com/PopHIVE/PopHIVE-Shiny/blob/main/README.md)| Aug 12th, 2025 |
+| PopHIVE_DataHub  | N/A | Not Yet Transferred |
 
 &nbsp;
 
