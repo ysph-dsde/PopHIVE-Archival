@@ -4,7 +4,7 @@
 
 The PopHIVE project established its own GitHub organization in the summer of 2025. Most codebases were transferred to this new organization in August, unless otherwise noted. For long-term storage, a bare clone of each repository was created and saved in this repository. After completing the transfers to the [PopHIVE](https://github.com/PopHIVE) GitHub Organization, the original codebases in the [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) GitHub Organization were deleted.
 
-Refer to the notes below for details on how the archives were created and instructions on how to use them. The new locations of the codebases can also be found in the table below.
+**NOTE:** If any of these repositories do not include the [Creative Commons Attribution-Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license or “Legal Disclaimer” statement, please be aware that they still apply to all codebase. We ask that you add them as needed.
 
 &nbsp;
 
@@ -24,8 +24,6 @@ Refer to the notes below for details on how the archives were created and instru
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ysph-dsde/PopHIVE-Archival) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/ysph-dsde/PopHIVE-Archival) ![GitHub Release Date](https://img.shields.io/github/release-date/ysph-dsde/PopHIVE-Archival) ![GitHub repo size](https://img.shields.io/github/repo-size/ysph-dsde/PopHIVE-Archival)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/ysph-dsde/PopHIVE-Archival) ![GitHub last commit](https://img.shields.io/github/last-commit/ysph-dsde/PopHIVE-Archival) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ysph-dsde/PopHIVE-Archival) ![GitHub language count](https://img.shields.io/github/languages/count/ysph-dsde/PopHIVE-Archival) ![GitHub top language](https://img.shields.io/github/languages/top/ysph-dsde/PopHIVE-Archival)
-
-**NOTE:** If any of these repositories do not include the [Creative Commons Attribution-Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license or “Legal Disclaimer” statement, please be aware that they still apply to all codebase. We ask that you add them as needed.
 
 ## Legal Disclaimer
 
