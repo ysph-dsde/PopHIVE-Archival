@@ -8,14 +8,14 @@ Refer to the notes below for details on how the archives were created and instru
 
 &nbsp;
 
-| Repository Name  | New Location                                          | Transferred                   |
-|:-----------------|:------------------------------------------------------|:------------------------------|
-| data-gov         | [PopHIVE/data-gov](https://github.com/PopHIVE/data-gov)              | Aug 11th, 2025 |
-| DSDE-PopHIVE     | [PopHIVE/DSDE-PopHIVE](https://github.com/PopHIVE/DSDE-PopHIVE)      | Aug 11th, 2025 |
-| PopHIVE          | [PopHIVE/PopHIVE](https://github.com/PopHIVE/PopHIVE)                | Aug 11th, 2025 |
-| PopHIVE-Prototype| [PopHIVE/PopHIVE-Prototype ](https://github.com/PopHIVE/PopHIVE-Prototype)| Aug 12th, 2025 |
-| PopHIVE-Shiny    | [PopHIVE/PopHIVE-Shiny](https://github.com/PopHIVE/PopHIVE-Shiny)    | Aug 12th, 2025 |
-| PopHIVE_DataHub  | [PopHIVE/PopHIVE_DataHub](https://github.com/PopHIVE/PopHIVE_DataHub) | May 6th, 2026 |
+| Repository Name  | New Location                                          | Transferred                   | By            |
+|:-----------------|:------------------------------------------------------|:------------------------------|:--------------|
+| data-gov         | [PopHIVE/data-gov](https://github.com/PopHIVE/data-gov)              | Aug 11th, 2025 | Shelby Golden |
+| DSDE-PopHIVE     | [PopHIVE/DSDE-PopHIVE](https://github.com/PopHIVE/DSDE-PopHIVE)      | Aug 11th, 2025 | Shelby Golden |
+| PopHIVE          | [PopHIVE/PopHIVE](https://github.com/PopHIVE/PopHIVE)                | Aug 11th, 2025 | Shelby Golden |
+| PopHIVE-Prototype| [PopHIVE/PopHIVE-Prototype ](https://github.com/PopHIVE/PopHIVE-Prototype)| Aug 12th, 2025 | Shelby Golden |
+| PopHIVE-Shiny    | [PopHIVE/PopHIVE-Shiny](https://github.com/PopHIVE/PopHIVE-Shiny)    | Aug 12th, 2025 | Shelby Golden |
+| PopHIVE_DataHub  | [PopHIVE/PopHIVE_DataHub](https://github.com/PopHIVE/PopHIVE_DataHub) | May 6th, 2026 | Shelby Golden |
 
 &nbsp;
 
